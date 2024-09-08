@@ -9,7 +9,8 @@
 ### Alzheimer_disease_analysis_report
 - 2019년도 상반기부터 2020년도 하반기까지 진행  
 - 알츠하이머 환자들의 데이터 분석 및 고찰
-
+### 이용조건별 저작권 라이선스의 계약 조건 개인화 모델 제안
+ - 2023년도 9월에 KCI 논문 작성
 
 ## Project with code (papers dir)
 ### Diabetes_Analysis
